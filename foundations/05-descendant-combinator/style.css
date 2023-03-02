@@ -1,0 +1,12 @@
+.container {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  align-items: center;
+}
+
+#special {
+  font-size: 30px;
+}
+
+// yellow background, red text, a font size of 20px, and center aligned.

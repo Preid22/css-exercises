@@ -1,0 +1,19 @@
+.classless {
+  background-color: aqua;
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#first {
+    color: blue;
+    font-size: 36px;
+}
+
+#second {
+    background-color: lime;
+    font-weight: bold;
+
+}
